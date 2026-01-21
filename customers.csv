@@ -1,0 +1,8 @@
+customer_id,full_name,email,phone,birth_date,created_at,is_active
+1,Ana Silva,ana.silva@email.com,(41) 99999-1111,1995-04-10,2025-12-14 10:00:00,True
+2,Bruno Lima,bruno.lima@email.com,,1989-02-20,2026-01-03 09:20:00,True
+3,Carla Souza,carla.souza@email.com,41 98888-2222,,2026-01-08 14:10:00,True
+4,Carla Souza,carla.souza@email.com,41 98888-2222,,2026-01-09 08:30:00,True
+5,   Diego  Santos  ,DIEGO@EMAIL.COM,41977773333,2035-01-01,2026-01-11 12:00:00,True
+6,Eva,,41966665555,1999-12-31,2026-01-12 18:45:00,True
+7,Felipe Nunes,felipe.nunes@email.com,41955554444,1990-07-12,2026-01-01 07:00:00,False
